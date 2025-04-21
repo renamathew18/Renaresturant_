@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home | TastyBites</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>TastyBites</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="reservation.html">Reservation</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <img src="images/restaurant-interior.jpg" alt="Restaurant Interior" class="hero-img">
+      <div class="hero-text">
+        <h2>Welcome to TastyBites</h2>
+        <p>Delicious food made with love.</p>
+      </div>
+    </section>
+    <section class="features">
+      <div class="feature-box">
+        <img src="images/pizza.jpg" alt="Pizza">
+        <h3>Fresh Ingredients</h3>
+        <p>We use only the freshest ingredients in every dish.</p>
+      </div>
+      <div class="feature-box">
+        <img src="images/chef.jpg" alt="Chef">
+        <h3>Expert Chefs</h3>
+        <p>Our experienced chefs craft each meal to perfection.</p>
+      </div>
+      <div class="feature-box">
+        <img src="images/ambiance.jpg" alt="Ambiance">
+        <h3>Cozy Ambiance</h3>
+        <p>Enjoy your meals in a warm and welcoming setting.</p>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 TastyBites Restaurant</p>
+  </footer>
+</body>
+</html>
