@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Menu | TastyBites</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>TastyBites</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="reservation.html">Reservation</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Our Menu</h2>
+    <div class="features">
+      <div class="feature-box">
+        <img src="images/pizza.jpg" alt="Pizza">
+        <h3>Pizza</h3>
+        <p>Cheesy and delicious - $10</p>
+      </div>
+      <div class="feature-box">
+        <img src="images/burger.jpg" alt="Burger">
+        <h3>Burger</h3>
+        <p>Juicy beef patty with fresh toppings - $7</p>
+      </div>
+      <div class="feature-box">
+        <img src="images/pasta.jpg" alt="Pasta">
+        <h3>Pasta</h3>
+        <p>Rich and creamy Italian classic - $9</p>
+      </div>
+      <div class="feature-box">
+        <img src="images/salad.jpg" alt="Salad">
+        <h3>Salad</h3>
+        <p>Fresh and healthy greens - $6</p>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 TastyBites Restaurant</p>
+  </footer>
+</body>
+</html>
