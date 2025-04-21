@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | TastyBites</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>TastyBites</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="reservation.html">Reservation</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>About Us</h2>
+    <div class="features">
+      <div class="feature-box">
+        <img src="images/family.jpg" alt="Family">
+        <h3>Our Story</h3>
+        <p>We are a family-owned restaurant serving fresh and tasty food since 1998.</p>
+      </div>
+      <div class="feature-box">
+        <img src="images/values.jpg" alt="Values">
+        <h3>Our Values</h3>
+        <p>Hospitality, quality, and customer satisfaction are our core principles.</p>
+      </div>
+      <div class="feature-box">
+        <img src="images/team.jpg" alt="Team">
+        <h3>Our Team</h3>
+        <p>Meet the passionate team behind TastyBites dedicated to serving excellence.</p>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 TastyBites Restaurant</p>
+  </footer>
+</body>
+</html>
