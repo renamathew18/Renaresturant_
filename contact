@@ -1,0 +1,34 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact | TastyBites</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>TastyBites</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="reservation.html">Reservation</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Contact Us</h2>
+    <div class="contact-section">
+      <img src="images/contact.jpg" alt="Contact Us">
+      <div class="contact-info">
+        <p><strong>Email:</strong> info@tastybites.com</p>
+        <p><strong>Phone:</strong> 123-456-7890</p>
+        <p><strong>Location:</strong> 123 Foodie Lane, Flavor Town</p>
+        <p><strong>Hours:</strong> Mon–Sun: 11 AM – 11 PM</p>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 TastyBites Restaurant</p>
+  </footer>
+</body>
+</html>
